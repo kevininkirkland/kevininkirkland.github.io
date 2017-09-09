@@ -1,0 +1,40 @@
+h1{
+	text-align: center;
+	color: gold;
+	border-style: double;
+	border: 10px, solid gold;
+}
+
+h2{
+	text-align: center;
+}
+
+.underline {
+	text-decoration: underline;
+}
+
+.crazyBig:hover {
+	font-size: 50px;
+	color: pink;
+}
+
+li {
+	text-align: center;
+	font-size: 15px;
+	list-style-position: inside;
+}
+
+*{
+	background: grey;
+}
+
+p{
+	padding: 10px;
+	background: gold;
+	font-style: bold;
+}
+
+#gold{
+	text-align: center;
+	font-size: 300px;
+}
